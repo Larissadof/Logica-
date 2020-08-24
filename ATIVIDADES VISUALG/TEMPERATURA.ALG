@@ -1,0 +1,21 @@
+Algoritmo "TEMPERATURA"
+
+Var
+A: INTEIRO
+
+
+Inicio
+ESCREVA ("DIGITE SUA TEMPERATURA:")
+LEIA (A)
+ESCREVAL ()
+   SE (A>=25)ENTAO
+     ESCREVA("ESTÁ MUITO QUENTE!")
+SENAO
+   SE (A<=25)ENTAO
+     ESCREVA("ESTÁ AGRADÁVEL!")
+   FIMSE
+   FIMSE
+
+
+
+Fimalgoritmo
